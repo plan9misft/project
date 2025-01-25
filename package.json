@@ -1,0 +1,27 @@
+{
+          "name": "LEAf",
+          "description": "description",
+          "authors": "author",
+          "version": "1.0.0",
+          "main": "pathToMain",
+          "dependencies": {
+
+                    "name": "LEAf",
+                    "description": "description", 
+                    "t1": "qwerty, 789f-67ho-olth1t ",
+                    "debug": "1",
+                    "connect": "2",
+                    "@tisoap/react-flow-smart-edge": "3.0.0"
+                    
+                    
+
+
+                    
+                    }
+                          
+
+
+
+
+                    
+}
