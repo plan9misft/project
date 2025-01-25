@@ -1,5 +1,6 @@
 # project
 my first project!!!
+i got a yt channal: https://www.youtube.com/@Skipper_youtube_All
 
 # new stuf:
 added a bunch of new files!
