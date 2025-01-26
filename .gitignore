@@ -1,0 +1,8 @@
+# Object file
+*.o
+in debugger2.d *# {(byut=true)} (byut) is a start processer, when it`s set to true "index.html" will get a button to start 
+*{d}_
+
+
+.vscode
+node_modules
