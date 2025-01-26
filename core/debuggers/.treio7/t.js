@@ -1,2 +1,2 @@
 {[start=1]}
-[;var u=U(t{})]
+[;var u=U(t{RGB})]
