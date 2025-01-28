@@ -1,2 +1,2 @@
 *.js linguist-detectable=false
-*t_start  on_dutop
+*t_start  on_dutop=~true
