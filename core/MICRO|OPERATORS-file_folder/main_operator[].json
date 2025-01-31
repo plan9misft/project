@@ -1,0 +1,115 @@
+{
+	"manifest" : 
+	{
+		"core" : 
+		{
+			"java-runtime-alpha" : [],
+			"java-runtime-beta" : [],
+			"java-runtime-delta" : [],
+			"java-runtime-gamma" : [],
+			"java-exe" : []
+		},
+    "linux" : 
+		{
+			"java-runtime-alpha" : 
+			[
+				{
+					"availability" : 
+					{
+						"group" : 5851,
+						"progress" : 100
+					},
+					"manifest" : 
+					{
+						"sha1" : "3bfc5fdcc28d8897aa12f372ea98a9afeb11a813",
+						"size" : 82665
+					"version" : 
+					{
+						"name" : "16.0.1.9.1",
+						"released" : "2021-05-10T16:43:02+00:00"
+					}
+				}
+			],
+			"java-runtime-beta" : 
+			[
+				{
+					"availability" : 
+					{
+						"group" : 3563,
+						"progress" : 100
+					},
+					"manifest" : 
+					{
+						"sha1" : "406d142348380dcaccb86af72fcb17f744552a06",
+						"size" : 82280
+					},
+					"version" : 
+					{
+						"name" : "17.0.1.12.1",
+						"released" : "2021-11-15T14:15:19+00:00"
+					}
+				}
+			],
+			"java-runtime-delta" : 
+			[
+				{
+					"availability" : 
+					{
+						"group" : 8677,
+						"progress" : 100
+					},
+					"manifest" : 
+					{
+						"sha1" : "8adc688f802f47a4e5e8f5c15c459448a8591a23",
+						"size" : 82582,
+										},
+					"version" : 
+					{
+						"name" : "21.0.3",
+						"released" : "2024-04-23T09:41:16+00:00"
+					}
+				}
+			],
+			"java-runtime-gamma" : 
+			[
+				{
+					"availability" : 
+					{
+						"group" : 5199,
+						"progress" : 100
+					},
+					"manifest" : 
+					{
+						"sha1" : "f3e086257efca1a662f7276c415e3a9879c90ee9",
+						"size" : 82289,
+					},
+					"version" : 
+					{
+						"name" : "17.0.8",
+						"released" : "2023-09-15T08:28:43+00:00"
+					}
+				}
+			],
+      "java-exe" : 
+			[
+				{
+					"availability" : 
+					{
+						"group" : 5199,
+						"progress" : 100
+					},
+					"manifest" : 
+					{
+						"sha1" : "f78654cf857958e65659fec65476e",
+						"size" : 82289,
+					},
+					"version" : 
+					{
+						"name" : "1.00",
+						"released" : "1-29-2025"
+					}
+				}
+			],
+  }
+  
+}
